@@ -1,0 +1,17 @@
+{
+  "part_id": "P1",
+  "name": "Klavier",
+  "measure_count": 4,
+  "measure_labels": ["1", "2", "3", "4"],
+  "note_elements": [2, 3, 2, 3],
+  "rests": [0, 0, 1, 0],
+  "chord_followers": [0, 1, 0, 0],
+  "grace_note_elements": [0, 0, 0, 1],
+  "event_xml_positions": [[1, 2], [1], [1, 2, 3], [1, 6]],
+  "written_event_elements": [
+    ["divisions", "key", "time", "staves", "clef", "clef", "repeat"],
+    ["key"],
+    ["divisions", "time", "metronome", "sound", "ending"],
+    ["sound", "ending", "repeat"]
+  ]
+}
